@@ -1,0 +1,39 @@
+{
+  "name": "The Mad Bears #3421",
+  "description": "4,444 honey-fueled maniacs buzzing with chaos./n Drip hard, degen harder—this isn’t just a collection, it’s a movement 🐻🍯",
+  "image": "ipfs://NewUriToReplace/3421.png",
+  "dna": "66e56594ec8a33715199680dc2655c0346dcc4fc",
+  "edition": 3421,
+  "date": 1740796184016,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "RareBackground"
+    },
+    {
+      "trait_type": "Overlays",
+      "value": "Red_Lightning"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Raibow1Bear"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "GreyShirt"
+    },
+    {
+      "trait_type": "Paws",
+      "value": "WeightPaws2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ChillEyes"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "RedDotBandana"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
