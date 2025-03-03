@@ -1,0 +1,38 @@
+{
+  "name": "The Mad Bears #3433",
+  "description": "4,444 honey-fueled maniacs buzzing with chaos.\n Drip hard, degen harder\u2014this isn't just a collection, it's a movement \ud83d\udc3b\ud83c\udf6f\nhttps://www.madhoney.fi",
+  "image": "https://raw.githubusercontent.com/Madhoneybees/maddata/a4d6fd68c1c69b69449de78431cde241a2af2991/images/3433.png",
+  "dna": "6b3f141b85c1317956a819baecb9a07d279329e0",
+  "edition": 3433,
+  "date": 1740992297167,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Overlays",
+      "value": "RedLightning"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BrownBear"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "HoneyPotHoodie"
+    },
+    {
+      "trait_type": "Paws",
+      "value": "SharpPaws"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "AngryEyes"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "MadBearsBandana"
+    }
+  ]
+}

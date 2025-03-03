@@ -1,0 +1,38 @@
+{
+  "name": "The Mad Bears #1977",
+  "description": "4,444 honey-fueled maniacs buzzing with chaos.\n Drip hard, degen harder\u2014this isn't just a collection, it's a movement \ud83d\udc3b\ud83c\udf6f\nhttps://www.madhoney.fi",
+  "image": "https://raw.githubusercontent.com/Madhoneybees/maddata/a4d6fd68c1c69b69449de78431cde241a2af2991/images/1977.png",
+  "dna": "6bbf0f00fb198cd7d61dacf5cca0b772c6b6e265",
+  "edition": 1977,
+  "date": 1740991877823,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BeraWorld"
+    },
+    {
+      "trait_type": "Overlays",
+      "value": "PurpleLightning"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PolarBear"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "MadBearsBlackShirt"
+    },
+    {
+      "trait_type": "Paws",
+      "value": "HoneyDrop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "CyborgEyes"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "SilverCrown"
+    }
+  ]
+}
